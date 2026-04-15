@@ -28,7 +28,6 @@
 # IN THE DIGITAL SINGLE MARKET.
 
 User-agent: *
-Content-Signal: ai-train=yes, search=yes, ai-input=yes
 
 Allow: /
 Disallow: /client-ip-geolocation
